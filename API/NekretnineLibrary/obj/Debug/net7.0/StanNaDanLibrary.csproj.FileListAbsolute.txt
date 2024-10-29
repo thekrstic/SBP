@@ -1,0 +1,13 @@
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\StanNaDanLibrary.csproj.AssemblyReference.cache
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\StanNaDanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\StanNaDanLibrary.AssemblyInfoInputs.cache
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\StanNaDanLibrary.AssemblyInfo.cs
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\StanNaDanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\StanNaDanLibrary.sourcelink.json
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\bin\Debug\net7.0\StanNaDanLibrary.deps.json
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\bin\Debug\net7.0\StanNaDanLibrary.dll
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\bin\Debug\net7.0\StanNaDanLibrary.pdb
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\StanNaDanLibrary.dll
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\refint\StanNaDanLibrary.dll
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\StanNaDanLibrary.pdb
+C:\Users\krstic\Desktop\baze\DataBaseStruct\API\NekretnineLibrary\obj\Debug\net7.0\ref\StanNaDanLibrary.dll

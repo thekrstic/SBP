@@ -1,0 +1,3 @@
+Vlasnik tabela: dodat TIP_VLASNIKA
+
+Dodati trigeri za ID-jeve

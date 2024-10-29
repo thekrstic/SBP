@@ -1,0 +1,37 @@
+dodaj Nekretninu
+Obrisi Nekretninu
+Izmeni Nekretninu
+
+Prikazi Vlasnika [pravno lice]
+-dodaj vlasnika
+-izmeni vlasnika
+-obrisi vlasnika
+-broj telefona izabranog vlasnika
+
+Prikazi Vlasnika [fizicko lice]
+-dodaj vlasnika
+-izmeni vlasnika
+-obrisi vlasnika
+-broj telefona izabranog vlasnika
+
+Prikazi Brojeve Racuna Vlasnika
+
+Prikazi Kvart Nekretnine
+Dodaj Kvart
+Obrisi Kvart
+Izmeni Kvart
+
+Prikazi koji parking ima Nekretnina
+Dodaj Parking
+Obrisi Parking
+Izmeni Parking
+
+Prikazi Sajtove na kojima je oglasena Nekretnina??
+Dodaj Sajt
+Obrisi Sajt
+Izmeni Sajt
+
+Prikazi najmove Nekretnine
+Dodaj Najam
+Obrisi Najam
+Izmeni Najam

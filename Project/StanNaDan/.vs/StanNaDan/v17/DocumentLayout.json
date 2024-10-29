@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\forme\\sajtovinekretnine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|solutionrelative:forme\\sajtovinekretnine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\forme\\sajtovinekretnine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|solutionrelative:forme\\sajtovinekretnine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\dtomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|solutionrelative:dtomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\forme\\nekretnineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|solutionrelative:forme\\nekretnineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|c:\\users\\krstic\\desktop\\baze\\databasestruct\\project\\stannadan\\forme\\nekretnineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|solutionrelative:forme\\nekretnineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|c:\\users\\krstic\\desktop\\baze\\databasestruct\\project\\stannadan\\forme\\dodajnekretninu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|solutionrelative:forme\\dodajnekretninu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|c:\\users\\krstic\\desktop\\baze\\databasestruct\\project\\stannadan\\forme\\dodajnekretninu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795D3D3-3CF0-4188-8534-3C7177F7C675}|StanNaDan.csproj|solutionrelative:forme\\dodajnekretninu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NekretnineForm.cs",
+              "DocumentMoniker": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\NekretnineForm.cs",
+              "RelativeDocumentMoniker": "Forme\\NekretnineForm.cs",
+              "ToolTip": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\NekretnineForm.cs",
+              "RelativeToolTip": "Forme\\NekretnineForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:41:37.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NekretnineForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\NekretnineForm.cs",
+              "RelativeDocumentMoniker": "Forme\\NekretnineForm.cs",
+              "ToolTip": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\NekretnineForm.cs [Design]",
+              "RelativeToolTip": "Forme\\NekretnineForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:34:23.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SajtoviNekretnine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\SajtoviNekretnine.cs",
+              "RelativeDocumentMoniker": "Forme\\SajtoviNekretnine.cs",
+              "ToolTip": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\SajtoviNekretnine.cs [Design]",
+              "RelativeToolTip": "Forme\\SajtoviNekretnine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:37:15.131Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SajtoviNekretnine.cs",
+              "DocumentMoniker": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\SajtoviNekretnine.cs",
+              "RelativeDocumentMoniker": "Forme\\SajtoviNekretnine.cs",
+              "ToolTip": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\SajtoviNekretnine.cs",
+              "RelativeToolTip": "Forme\\SajtoviNekretnine.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAGIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:37:20.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DTOManager.cs",
+              "DocumentMoniker": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\DTOManager.cs",
+              "RelativeDocumentMoniker": "DTOManager.cs",
+              "ToolTip": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\DTOManager.cs",
+              "RelativeToolTip": "DTOManager.cs",
+              "ViewState": "AQIAAA8IAAAAAAAAAAAEwBgIAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:43:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DodajNekretninu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\DodajNekretninu.cs",
+              "RelativeDocumentMoniker": "Forme\\DodajNekretninu.cs",
+              "ToolTip": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\DodajNekretninu.cs [Design]",
+              "RelativeToolTip": "Forme\\DodajNekretninu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:51:55.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DodajNekretninu.cs",
+              "DocumentMoniker": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\DodajNekretninu.cs",
+              "RelativeDocumentMoniker": "Forme\\DodajNekretninu.cs",
+              "ToolTip": "C:\\Users\\krstic\\Desktop\\baze\\DataBaseStruct\\Project\\StanNaDan\\Forme\\DodajNekretninu.cs",
+              "RelativeToolTip": "Forme\\DodajNekretninu.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAAAM4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:52:02.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
